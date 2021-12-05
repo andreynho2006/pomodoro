@@ -2,7 +2,7 @@
 
 Pomodoro timer that can teach about rendering in React.
 
-[![](https://github.com/andreynho2006/pomodoro/blob/main/src/video/video.gif)](video)
+[![](https://github.com/andreynho2006/pomodoro/blob/main/src/video/video.gif)](https://github.com/andreynho2006/pomodoro/blob/main/src/App.js)
 
 ### React skills used in this app
 
